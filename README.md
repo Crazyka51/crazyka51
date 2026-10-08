@@ -1,10 +1,10 @@
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Crazyka51/Crazyka51/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Crazyka51&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Crazyka51/Crazyka51/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Crazyka51/Crazyka51/activity-graph-output/activity-graph.svg?theme=github-dark&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
   <img src="https://raw.githubusercontent.com/Crazyka51/Crazyka51/trophy-output/trophy.svg?theme=dark_lover&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
+
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Hi there 👋, I'm Matěj Hrabák<br><br> 🚀 Full-stack Web Developer & Workflow Architect<br><br>Specializuji se na vývoj moderních webových aplikací, robustních rezervačních systémů.<br><br>Frontend: React, Next.js (App Router), TypeScript, Tailwind CSS<br>Backend & Database: Node.js, Prisma, PostgreSQL, PHP / WordPress (pro specifické klientské projekty)<br>Mobile Development: Kotlin (Android aplikace pro správu rezervací a audio nástroje)<br>AI & Workflow: GitHub Copilot, Claude Code, Python (Streamlit, DeepFilterNet, analýza zvuku)<br>Deployment & Hosting: Vercel, Git</h2>
+<h2 data-importer="text" align="left">Hi there 👋, I'm Matěj Hrabák<br><br> 🚀 Full-stack Web Developer & Workflow Architect<br><br>I specialize in developing modern web applications and robust reservation systems.<br><br>Frontend: React, Next.js (App Router), TypeScript, Tailwind CSS<br>Backend & Database: Node.js, Prisma, PostgreSQL, PHP / WordPress (for specific client projects)<br>Mobile Development: Kotlin (Android app for reservation management and audio tools)<br>AI & Workflow: GitHub Copilot, Claude Code, Python (Streamlit, DeepFilterNet, audio analysis)<br>Deployment & Hosting: Vercel, Git</h2>
 
 ###
 
