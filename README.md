@@ -36,7 +36,7 @@
 
 ###
 
-¨<h2 data-importer="text" align="left">Hi there 👋, I'm Matěj Hrabák<br><br>
+¨<h2 data-importer="text" align="left">Vítejte 👋, Jsem Matěj Hrabák<br><br>
 🚀 Full-stack Web Developer & Workflow Architect</h2>
 
 Pomáhám firmám a projektům růst díky moderním webovým aplikacím, promyšlené architektuře a efektivní automatizaci workflow. Specializuji se na vývoj robustních rezervačních systémů a rychlých uživatelských rozhraní na míru.
