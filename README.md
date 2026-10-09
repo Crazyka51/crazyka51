@@ -2,7 +2,7 @@
   <img src="https://streak-stats.demolab.com?user=Crazyka51&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Crazyka51/Crazyka51/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Crazyka51/Crazyka51/activity-graph-output/activity-graph.svg?theme=github-dark&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/Crazyka51/Crazyka51/trophy-output/trophy.svg?theme=dark_lover&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+ 
 </div>
 
 
@@ -36,8 +36,54 @@
 
 ###
 
-<h2 data-importer="text" align="left">Hi there 👋, I'm Matěj Hrabák<br><br> 🚀 Full-stack Web Developer & Workflow Architect<br><br>I specialize in developing modern web applications and robust reservation systems.<br><br>Frontend: React, Next.js (App Router), TypeScript, Tailwind CSS<br>Backend & Database: Node.js, Prisma, PostgreSQL, PHP / WordPress (for specific client projects)<br>Mobile Development: Kotlin (Android app for reservation management and audio tools)<br>AI & Workflow: GitHub Copilot, Claude Code, Python (Streamlit, DeepFilterNet, audio analysis)<br>Deployment & Hosting: Vercel, Git</h2>
+¨<h2 data-importer="text" align="left">Hi there 👋, I'm Matěj Hrabák<br><br>
+🚀 Full-stack Web Developer & Workflow Architect</h2>
 
+Pomáhám firmám a projektům růst díky moderním webovým aplikacím, promyšlené architektuře a efektivní automatizaci workflow. Specializuji se na vývoj robustních rezervačních systémů a rychlých uživatelských rozhraní na míru.
+
+### 🛠️ Tech Stack & Dovednosti
+
+* **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS
+* **Backend & Databáze:** Node.js, Prisma, PostgreSQL, PHP / WordPress (pro specifické klientské projekty)
+* **Mobilní vývoj:** Kotlin (Android aplikace pro správu rezervací a audio nástroje)
+* **AI & Workflow:** GitHub Copilot, Claude Code, Python (Streamlit, DeepFilterNet, analýza zvuku)
+* **Hosting & DevOps:** Vercel, Git
+
+---
+
+### 💼 Komplexní služby webového vývoje
+
+* **Firemní prezentační weby**  
+  Moderní, bleskově rychlé a responzivní weby pro malé i střední firmy s důrazem na špičkový výkon a SEO.  
+  * *Body:* Responzivní design | SEO optimalizace | Maximální rychlost načítání
+
+* **E-commerce řešení & Rezervační systémy**  
+  Vlastní e-shopy a robustní rezervační systémy na míru s bezpečnými platbami a přehlednou správou.  
+  * *Body:* Integrace platebních bran | Správa produktů a rezervací | Analýza prodeje
+
+* **Next.js & Webové aplikace**  
+  Špičkové webové aplikace postavené na moderním stacku Next.js s důrazem na škálovatelnost a skvělé UX.  
+  * *Body:* Server-side rendering (SSR) | Pokročilé API | Real-time funkcionalita
+
+* **WordPress & PHP řešení**  
+  Mírové šablony a pluginy pro WordPress vytvořené přesně podle specifických požadavků klienta.  
+  * *Body:* Vlastní šablony | Custom pluginy | Intuitivní administrace
+
+* **Progresivní webové aplikace (PWA)**  
+  Moderní weby s funkcemi mobilních aplikací pro maximální zapojení uživatelů.  
+  * *Body:* Offline režim | Push notifikace | Instalace na jedno kliknutí
+
+* **SEO & Výkonnostní optimalizace**  
+  Hloubkový audit a ladění stávajících webů pro lepší pozice ve vyhledávačích a bleskové reakce.  
+  * *Body:* Technický SEO audit | Optimalizace Core Web Vitals | Performance monitoring
+
+* **API & Systémové integrace**  
+  Propojení tvého webu, e-shopu nebo systému s externími službami, databázemi a nástroji.  
+  * *Body:* REST API | GraphQL | Databázové integrace
+
+* **Údržba, správa & podpora**  
+  Spolehlivá technická péče, díky které bude tvůj web neustále v bezpečí, aktuální a plně funkční.  
+  * *Body:* Pravidelné zálohy | Bezpečnostní aktualizace | Prioritní podpora
 ###
 
 <div data-importer="socials" align="left">
